@@ -13,6 +13,8 @@ An interactive web application designed to help developers master algorithms and
 - **Filter by Category & Difficulty** - Easy, Medium, and Hard levels
 - **Progress Tracking** - Visual progress bar and statistics
 
+<img width="1893" height="907" alt="flash-cards" src="https://github.com/user-attachments/assets/d96a813c-37a3-4d4a-9cb6-c2e39b493ca9" />
+
 ## 🚀 Live Demo
 
 [View Live Demo](https://syntaxsidekick.github.io/flash-cards/)
